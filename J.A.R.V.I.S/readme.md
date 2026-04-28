@@ -1,6 +1,6 @@
-# 🤖 MARK XXXV
+# 🤖 J.A.R.V.I.S
 
-**Watch The Detailed Video To Set-up This Model**: https://www.youtube.com/watch?v=BhOsnGC_sAA
+**Watch The Detailed Video To Set-up This Model**: 
 
 ### Next-Generation Personal AI Assistant — By FatihMakes
 
@@ -42,8 +42,8 @@ Designed for speed, autonomy, and real-world usability.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-XXXV.git
-cd Mark-XXXV
+git clone https://github.com/shohjahon233/J.A.R.V.I.S.git
+cd J.A.R.V.I.S
 pip install -r requirements.txt
 playwright install
 python main.py
@@ -69,5 +69,6 @@ Engineered by a 17-year-old building a real JARVIS-style assistant.
 ---
 If you have questions, issues, or just want to say hi:
 
-* YouTube: [@FatihMakes](https://www.youtube.com/@FatihMakes)
-* Instagram: [@fatihmakes](https://www.instagram.com/fatihmakes/)
+* Telegram: [@BaxtiyorovCyberHub](https://t.me/BaxtiyorovFamily)
+* Youtube: [@BaxtiyorovCyberHub](https://www.youtube.com/@BaxtiyorovCyberHub)
+* Instagram: [@BaxtiyorovCyberHub](https://www.instagram.com/baxtiyorovcyberhub/)
