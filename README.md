@@ -1,62 +1,74 @@
 # 🤖 J.A.R.V.I.S
 
-* Ushbu modelni sozlash bo‘yicha batafsil videoni tomosha qiling: 
+**Watch The Detailed Video To Set-up This Model**: 
 
-Keyingi avlod shaxsiy AI yordamchi — FatihMakes tomonidan yaratilgan
-Bu real vaqt rejimida ishlaydigan ovozli sun’iy intellekt bo‘lib, eshita oladi, ko‘ra oladi, tushunadi va Windows kompyuteringizni boshqara oladi. Lokal ishlaydi. Hech qanday obuna talab qilinmaydi (faqat Google AI Studio orqali so‘rovlarni oshirmoqchi bo‘lsangiz bundan mustasno). Aqlli avtomatlashtirish uchun yaratilgan.
+### Next-Generation Personal AI Assistant — By FatihMakes
 
-✨ Umumiy ma’lumot
-MARK XXXV — bu rivojlangan ovoz orqali boshqariladigan AI yordamchi bo‘lib, kompyuteringizni interaktiv aqlli tizimga aylantiradi. Oddiy gapiring — u eshitadi, kontekstni tushunadi, insondek ovoz bilan javob beradi va tizim bo‘ylab vazifalarni avtomatik bajaradi. Tezlik, mustaqillik va real hayotda foydalanish uchun ishlab chiqilgan.
+A real-time voice AI that can hear, see, understand, and control your Windows computer.
+Local execution. Zero subscriptions (unless you want to increase requests via Google AI Studio).
+Built for intelligent automation.
+---
+## ✨ Overview
 
-🚀 Imkoniyatlar
+**MARK XXXV** is an advanced voice-driven AI assistant designed to turn your computer into an interactive intelligent system.
+Speak naturally — it listens, understands context, responds with a human-like voice, and executes tasks across your system automatically.
+Designed for speed, autonomy, and real-world usability.
+---
+## 🚀 Capabilities
 
-Asosiy:
+### Core
+* **Real-time voice interaction** — Natural conversation with instant response in any language
+* **System control** — Launch apps, manage files, execute terminal commands
+* **Autonomous task execution** — Plans and completes complex multi-step workflows
+* **Visual awareness** — Full screen analysis and webcam understanding
+* **Persistent memory** — Learns your name, preferences, projects, relationships and remembers them across sessions
+* **Mute button** — Click or press F4 to instantly silence the microphone (useful when talking to others nearby)
+* **Keyboard input** — Type commands directly from the UI without speaking
 
-* Real vaqtli ovozli muloqot — istalgan tilda tezkor va tabiiy suhbat
-* Tizimni boshqarish — ilovalarni ochish, fayllarni boshqarish, terminal buyruqlarini bajarish
-* Avtonom vazifalar — murakkab, ko‘p bosqichli ishlarni rejalashtirib bajaradi
-* Vizual tushunish — ekran va veb-kamera orqali tahlil qilish
-* Doimiy xotira — ismingizni, qiziqishlaringizni, loyihalaringizni va boshqa ma’lumotlarni eslab qoladi
-Mute tugmasi — F4 yoki tugma orqali mikrofonni tez o‘chirish
-Klaviatura orqali boshqarish — ovozsiz buyruq yozish imkoniyati
+---
+## 🆕 What's New in XXXV
 
-🆕 I versiyasidagi yangiliklar
+* 🎮 Steam & Epic Games integration — install, update, schedule, auto-shutdown
+* 🔇 Mute button (F4 / click) — no more Jarvis picking up side conversations
+* ⌨️ Keyboard input on UI — type commands without speaking
+* 🧠 Smarter memory — saves favorites, projects, relationships, plans automatically
+* 🌐 Incognito browser support
+* 🔊 Error reporting — tool failures spoken aloud
+* 🔁 Status indicator — LISTENING / SPEAKING / THINKING / MUTED states on UI
+* ⚡ Faster response — removed unnecessary round-trips before tool calls
+* 👨‍🔧 Fixed errors — removed some errors and bugs.
 
-🎮 Steam va Epic Games integratsiyasi — o‘rnatish, yangilash, rejalashtirish, avtomatik o‘chirish
-🔇 Mute tugmasi (F4 / bosish orqali)
-⌨️ UI orqali yozma buyruqlar
-🧠 Aqlli xotira — foydalanuvchi ma’lumotlarini avtomatik saqlaydi
-🌐 Inkognito brauzer qo‘llab-quvvatlash
-🔊 Xatoliklar haqida ovozli xabar
-🔁 Holat indikatori — LISTENING / SPEAKING / THINKING / MUTED
-⚡ Tezroq ishlash — ortiqcha jarayonlar olib tashlangan
-👨‍🔧 Xatolar tuzatildi
+---
+## ⚡ Quick Start
 
-⚡ Tez boshlash
-
-
+```bash
+git clone https://github.com/shohjahon233/J.A.R.V.I.S.git
 cd J.A.R.V.I.S
 pip install -r requirements.txt
 playwright install
 python main.py
+```
 
-Birinchi ishga tushishda bepul Gemini API kalitingizni kiriting. Tizim bir necha daqiqada tayyor bo‘ladi.
+Enter your free Gemini API key on first launch.
+System ready in minutes.
+---
+## 📋 Requirements
 
-📋 Talablar
+* Windows 10 / 11
+* Python 3.11 or 3.12
+* Microphone
+* Free [Gemini API key](https://aistudio.google.com/apikey)
+---
+## ⚠️ License
 
-Windows 10 / 11
-Python 3.11 yoki 3.12
-Mikrofon
-Bepul Gemini API kaliti
+Personal and non-commercial use only.
+Licensed under **Creative Commons BY-NC 4.0**.
 
-⚠️ Litsenziya
-Faqat shaxsiy va notijorat foydalanish uchun. Creative Commons BY-NC 4.0 litsenziyasi asosida.
+Engineered by a 17-year-old building a real JARVIS-style assistant.
+⭐ Star the repository to support the project.
+---
+If you have questions, issues, or just want to say hi:
 
-15 yoshli dasturchi tomonidan haqiqiy JARVIS uslubidagi yordamchi sifatida yaratilgan. ⭐ Loyihani qo‘llab-quvvatlash uchun repo’ga yulduz qo‘ying!
-
-
-Savollar yoki takliflar bo‘lsa:
-
-YouTube: https://www.youtube.com/@BaxtiyorovCyberHub
-Instagram: https://www.instagram.com/baxtiyorovcyberhub/
-Telegram:https://t.me/BaxtiyorovFamily
+* Telegram: [@BaxtiyorovCyberHub](https://t.me/BaxtiyorovFamily)
+* Youtube: [@BaxtiyorovCyberHub](https://www.youtube.com/@BaxtiyorovCyberHub)
+* Instagram: [@BaxtiyorovCyberHub](https://www.instagram.com/baxtiyorovcyberhub/)
