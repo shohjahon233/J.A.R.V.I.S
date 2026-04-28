@@ -1,6 +1,6 @@
-🤖 J.A.R.V.I.S
+# 🤖 J.A.R.V.I.S
 
-Ushbu modelni sozlash bo‘yicha batafsil videoni tomosha qiling: 
+* Ushbu modelni sozlash bo‘yicha batafsil videoni tomosha qiling: 
 
 Keyingi avlod shaxsiy AI yordamchi — FatihMakes tomonidan yaratilgan
 Bu real vaqt rejimida ishlaydigan ovozli sun’iy intellekt bo‘lib, eshita oladi, ko‘ra oladi, tushunadi va Windows kompyuteringizni boshqara oladi. Lokal ishlaydi. Hech qanday obuna talab qilinmaydi (faqat Google AI Studio orqali so‘rovlarni oshirmoqchi bo‘lsangiz bundan mustasno). Aqlli avtomatlashtirish uchun yaratilgan.
@@ -12,11 +12,11 @@ MARK XXXV — bu rivojlangan ovoz orqali boshqariladigan AI yordamchi bo‘lib, 
 
 Asosiy:
 
-Real vaqtli ovozli muloqot — istalgan tilda tezkor va tabiiy suhbat
-Tizimni boshqarish — ilovalarni ochish, fayllarni boshqarish, terminal buyruqlarini bajarish
-Avtonom vazifalar — murakkab, ko‘p bosqichli ishlarni rejalashtirib bajaradi
-Vizual tushunish — ekran va veb-kamera orqali tahlil qilish
-Doimiy xotira — ismingizni, qiziqishlaringizni, loyihalaringizni va boshqa ma’lumotlarni eslab qoladi
+* Real vaqtli ovozli muloqot — istalgan tilda tezkor va tabiiy suhbat
+* Tizimni boshqarish — ilovalarni ochish, fayllarni boshqarish, terminal buyruqlarini bajarish
+* Avtonom vazifalar — murakkab, ko‘p bosqichli ishlarni rejalashtirib bajaradi
+* Vizual tushunish — ekran va veb-kamera orqali tahlil qilish
+* Doimiy xotira — ismingizni, qiziqishlaringizni, loyihalaringizni va boshqa ma’lumotlarni eslab qoladi
 Mute tugmasi — F4 yoki tugma orqali mikrofonni tez o‘chirish
 Klaviatura orqali boshqarish — ovozsiz buyruq yozish imkoniyati
 
