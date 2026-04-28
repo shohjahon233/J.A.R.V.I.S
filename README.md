@@ -1,4 +1,5 @@
 🤖 J.A.R.V.I.S
+
 Ushbu modelni sozlash bo‘yicha batafsil videoni tomosha qiling: 
 
 Keyingi avlod shaxsiy AI yordamchi — FatihMakes tomonidan yaratilgan
@@ -33,6 +34,7 @@ Klaviatura orqali boshqarish — ovozsiz buyruq yozish imkoniyati
 
 ⚡ Tez boshlash
 
+
 cd J.A.R.V.I.S
 pip install -r requirements.txt
 playwright install
@@ -50,9 +52,11 @@ Bepul Gemini API kaliti
 ⚠️ Litsenziya
 Faqat shaxsiy va notijorat foydalanish uchun. Creative Commons BY-NC 4.0 litsenziyasi asosida.
 
-17 yoshli dasturchi tomonidan haqiqiy JARVIS uslubidagi yordamchi sifatida yaratilgan. ⭐ Loyihani qo‘llab-quvvatlash uchun repo’ga yulduz qo‘ying!
+15 yoshli dasturchi tomonidan haqiqiy JARVIS uslubidagi yordamchi sifatida yaratilgan. ⭐ Loyihani qo‘llab-quvvatlash uchun repo’ga yulduz qo‘ying!
+
 
 Savollar yoki takliflar bo‘lsa:
+
 YouTube: https://www.youtube.com/@BaxtiyorovCyberHub
 Instagram: https://www.instagram.com/baxtiyorovcyberhub/
 Telegram:https://t.me/BaxtiyorovFamily
